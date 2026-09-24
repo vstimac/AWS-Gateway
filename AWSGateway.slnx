@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AWSGateway.Dialogs/AWSGateway.Dialogs.csproj" />
+  <Project Path="AWSGateway.TCPServer/AWSGateway.TCPServer.csproj" />
+  <Project Path="AWSGateway.Utils/AWSGateway.Utils.csproj" />
+  <Project Path="AWSGateway/AWSGateway.csproj" />
+</Solution>
